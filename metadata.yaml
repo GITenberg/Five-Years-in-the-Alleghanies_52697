@@ -1,12 +1,17 @@
 _repo: Five-Years-in-the-Alleghanies_52697
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: 5 Years in the Alleghanies
+covers:
+- cover_type: archival
+  image_path: 52697-h/images/cover.jpg
 creator:
   author:
     agent_name: Cross, Jonathan
     gutenberg_agent_id: '47006'
     url: http://www.gutenberg.org/2009/agents/47006
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52697#Five-Years-in-the-Alleghanies
 gutenberg_issued: '2016-08-02'
 gutenberg_type: Text
 identifiers:
